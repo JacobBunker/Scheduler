@@ -1,0 +1,142 @@
+Contract 0 has 8 items:
+    'yummy creche' (size: 6.70) shipping from Port Melody by 586 hours to Port Isoclous by 1445 hours
+    'obedient vet' (size: 6.10) shipping from Port Isoclous by 229 hours to Port Melody by 619 hours
+    'exalted barbecue' (size: 7.60) shipping from Port Isoclous by 637 hours to Port Chappero by 836 hours
+    'far-flung carter' (size: 5.10) shipping from Port Chappero by 922 hours to Port Isoclous by 1879 hours
+    'royal micronutrient' (size: 7.60) shipping from Port Chappero by 761 hours to Port Melody by 905 hours
+    'vengeful emotion' (size: 0.60) shipping from Port Chappero by 486 hours to Port Melody by 1444 hours
+    'alarming chemical' (size: 8.60) shipping from Port Chappero by 141 hours to Port Melody by 907 hours
+    'avaricious petal' (size: 6.90) shipping from Port Melody by 840 hours to Port Isoclous by 1724 hours
+    reward: 24776.00
+Contract 1 has 5 items:
+    'mortified judo' (size: 2.60) shipping from Port Isoclous by 439 hours to Port Chappero by 514 hours
+    'unwritten shawl' (size: 3.30) shipping from Port Melody by 69 hours to Port Chappero by 879 hours
+    'earnest galoshes' (size: 1.50) shipping from Port Melody by 456 hours to Port Isoclous by 592 hours
+    'honored trousers' (size: 5.80) shipping from Port Chappero by 430 hours to Port Isoclous by 562 hours
+    'mushy white' (size: 4.30) shipping from Port Melody by 38 hours to Port Isoclous by 332 hours
+    reward: 20735.00
+Contract 2 has 3 items:
+    'paltry foray' (size: 2.00) shipping from Port Chappero by 826 hours to Port Isoclous by 998 hours
+    'chubby habit' (size: 8.10) shipping from Port Chappero by 938 hours to Port Melody by 1152 hours
+    'gorgeous slot' (size: 6.40) shipping from Port Isoclous by 863 hours to Port Chappero by 1550 hours
+    reward: 19500.00
+Contract 3 has 3 items:
+    'odd outfielder' (size: 5.70) shipping from Port Chappero by 102 hours to Port Isoclous by 762 hours
+    'traumatic log' (size: 0.40) shipping from Port Melody by 101 hours to Port Isoclous by 121 hours
+    'generous hospitalisation' (size: 8.10) shipping from Port Melody by 802 hours to Port Chappero by 1590 hours
+    reward: 3612.00
+Contract 4 has 10 items:
+    'false dumbwaiter' (size: 9.80) shipping from Port Isoclous by 437 hours to Port Melody by 844 hours
+    'loud impairment' (size: 6.40) shipping from Port Isoclous by 965 hours to Port Chappero by 1551 hours
+    'enraged wafer' (size: 4.20) shipping from Port Chappero by 342 hours to Port Melody by 466 hours
+    'boiling bassinet' (size: 5.70) shipping from Port Melody by 168 hours to Port Chappero by 841 hours
+    'gloomy date' (size: 6.80) shipping from Port Chappero by 564 hours to Port Melody by 1313 hours
+    'acrobatic pack' (size: 5.70) shipping from Port Melody by 371 hours to Port Isoclous by 763 hours
+    'torn cougar' (size: 3.10) shipping from Port Melody by 230 hours to Port Chappero by 1211 hours
+    'enchanting receipt' (size: 4.00) shipping from Port Melody by 209 hours to Port Chappero by 624 hours
+    'salty destination' (size: 9.40) shipping from Port Melody by 876 hours to Port Chappero by 1065 hours
+    'far-flung heartache' (size: 2.40) shipping from Port Isoclous by 857 hours to Port Melody by 1043 hours
+    reward: 59690.00
+Contract 5 has 11 items:
+    'tight prelude' (size: 0.20) shipping from Port Melody by 354 hours to Port Chappero by 780 hours
+    'cheerful philosophy' (size: 4.10) shipping from Port Melody by 23 hours to Port Isoclous by 840 hours
+    'creamy hypothesis' (size: 7.10) shipping from Port Chappero by 688 hours to Port Isoclous by 1337 hours
+    'automatic eyestrain' (size: 8.40) shipping from Port Chappero by 259 hours to Port Isoclous by 679 hours
+    'content carriage' (size: 5.90) shipping from Port Isoclous by 926 hours to Port Melody by 1551 hours
+    'leading whale' (size: 9.90) shipping from Port Isoclous by 220 hours to Port Chappero by 970 hours
+    'which troop' (size: 7.30) shipping from Port Chappero by 261 hours to Port Melody by 1233 hours
+    'cautious girlfriend' (size: 0.80) shipping from Port Melody by 99 hours to Port Isoclous by 645 hours
+    'haunting gliding' (size: 2.80) shipping from Port Chappero by 889 hours to Port Isoclous by 1096 hours
+    'biodegradable pier' (size: 0.60) shipping from Port Melody by 138 hours to Port Chappero by 1131 hours
+    'abandoned comprehension' (size: 4.50) shipping from Port Isoclous by 74 hours to Port Melody by 365 hours
+    reward: 16478.00
+Contract 6 has 13 items:
+    'upbeat chimpanzee' (size: 3.30) shipping from Port Melody by 337 hours to Port Isoclous by 1177 hours
+    'impolite eyelid' (size: 2.20) shipping from Port Isoclous by 980 hours to Port Melody by 1209 hours
+    'artistic pastor' (size: 1.50) shipping from Port Chappero by 7 hours to Port Melody by 588 hours
+    'each progression' (size: 2.60) shipping from Port Melody by 205 hours to Port Isoclous by 713 hours
+    'dark birch' (size: 0.80) shipping from Port Melody by 91 hours to Port Isoclous by 306 hours
+    'ill fedelini' (size: 5.60) shipping from Port Isoclous by 828 hours to Port Chappero by 1458 hours
+    'worst snowflake' (size: 1.20) shipping from Port Chappero by 577 hours to Port Melody by 847 hours
+    'gregarious homework' (size: 0.40) shipping from Port Isoclous by 374 hours to Port Chappero by 1284 hours
+    'untidy jury' (size: 2.60) shipping from Port Chappero by 132 hours to Port Melody by 237 hours
+    'puzzling embossing' (size: 6.10) shipping from Port Chappero by 340 hours to Port Melody by 839 hours
+    'jaded sill' (size: 1.10) shipping from Port Chappero by 639 hours to Port Melody by 1166 hours
+    'deserted consent' (size: 8.30) shipping from Port Melody by 539 hours to Port Chappero by 964 hours
+    'bumpy softdrink' (size: 0.30) shipping from Port Melody by 544 hours to Port Isoclous by 857 hours
+    reward: 42991.00
+Contract 7 has 13 items:
+    'yummy ex-wife' (size: 6.20) shipping from Port Chappero by 502 hours to Port Isoclous by 726 hours
+    'pink motion' (size: 8.70) shipping from Port Melody by 926 hours to Port Isoclous by 1119 hours
+    'hidden country' (size: 7.70) shipping from Port Chappero by 89 hours to Port Melody by 290 hours
+    'rectangular bout' (size: 6.50) shipping from Port Melody by 156 hours to Port Chappero by 180 hours
+    'pointed cocoa' (size: 4.90) shipping from Port Chappero by 400 hours to Port Isoclous by 1265 hours
+    'oblong bar' (size: 9.00) shipping from Port Melody by 478 hours to Port Chappero by 808 hours
+    'guilty donut' (size: 7.70) shipping from Port Chappero by 925 hours to Port Isoclous by 1854 hours
+    'brave tritone' (size: 2.30) shipping from Port Chappero by 909 hours to Port Isoclous by 1329 hours
+    'fair quality' (size: 3.10) shipping from Port Isoclous by 444 hours to Port Chappero by 924 hours
+    'insignificant ATM' (size: 9.30) shipping from Port Melody by 606 hours to Port Isoclous by 1198 hours
+    'starchy trick' (size: 0.60) shipping from Port Melody by 860 hours to Port Isoclous by 1601 hours
+    'recent veneer' (size: 1.60) shipping from Port Chappero by 301 hours to Port Melody by 1174 hours
+    'embellished antiquity' (size: 9.40) shipping from Port Isoclous by 724 hours to Port Melody by 852 hours
+    reward: 130780.00
+Contract 8 has 13 items:
+    'pushy warrior' (size: 8.20) shipping from Port Isoclous by 432 hours to Port Melody by 643 hours
+    'constant tug' (size: 4.90) shipping from Port Isoclous by 913 hours to Port Chappero by 1632 hours
+    'oddball scent' (size: 6.20) shipping from Port Chappero by 24 hours to Port Melody by 782 hours
+    'well-off allergist' (size: 7.00) shipping from Port Melody by 117 hours to Port Chappero by 924 hours
+    'bleak abdomen' (size: 2.80) shipping from Port Isoclous by 508 hours to Port Chappero by 596 hours
+    'calm fratricide' (size: 10.00) shipping from Port Chappero by 799 hours to Port Isoclous by 1196 hours
+    'trusting conifer' (size: 1.70) shipping from Port Chappero by 977 hours to Port Melody by 1333 hours
+    'hopeful shelf' (size: 6.70) shipping from Port Isoclous by 787 hours to Port Melody by 1245 hours
+    'potable tribe' (size: 6.60) shipping from Port Isoclous by 323 hours to Port Chappero by 1290 hours
+    'awful underestimate' (size: 0.40) shipping from Port Chappero by 904 hours to Port Isoclous by 1471 hours
+    'rowdy mask' (size: 8.50) shipping from Port Melody by 5 hours to Port Chappero by 92 hours
+    'forceful anyone' (size: 9.40) shipping from Port Chappero by 975 hours to Port Melody by 1367 hours
+    'trusting dickey' (size: 8.50) shipping from Port Melody by 789 hours to Port Isoclous by 1392 hours
+    reward: 110123.00
+Contract 9 has 9 items:
+    'careful mythology' (size: 4.30) shipping from Port Isoclous by 274 hours to Port Melody by 706 hours
+    'envious chino' (size: 7.20) shipping from Port Chappero by 917 hours to Port Melody by 1160 hours
+    'marvelous barbiturate' (size: 2.30) shipping from Port Chappero by 115 hours to Port Isoclous by 629 hours
+    'hasty dust' (size: 0.30) shipping from Port Melody by 957 hours to Port Isoclous by 1015 hours
+    'eager minister' (size: 9.10) shipping from Port Melody by 326 hours to Port Isoclous by 570 hours
+    'clear place' (size: 7.60) shipping from Port Chappero by 801 hours to Port Melody by 1238 hours
+    'busy panel' (size: 6.40) shipping from Port Isoclous by 165 hours to Port Melody by 512 hours
+    'well-made adaptation' (size: 8.10) shipping from Port Isoclous by 991 hours to Port Chappero by 1447 hours
+    'traumatic cabbage' (size: 4.70) shipping from Port Chappero by 56 hours to Port Melody by 943 hours
+    reward: 55926.00
+Contract 10 has 16 items:
+    'worthless fear' (size: 7.70) shipping from Port Melody by 311 hours to Port Chappero by 1194 hours
+    'amazing safety' (size: 5.00) shipping from Port Chappero by 729 hours to Port Melody by 1659 hours
+    'acceptable scheduling' (size: 8.10) shipping from Port Isoclous by 136 hours to Port Melody by 574 hours
+    'vague curve' (size: 6.90) shipping from Port Isoclous by 577 hours to Port Chappero by 941 hours
+    'daring petitioner' (size: 7.90) shipping from Port Isoclous by 961 hours to Port Melody by 1188 hours
+    'creepy hat' (size: 8.40) shipping from Port Isoclous by 485 hours to Port Melody by 988 hours
+    'ill-fated signature' (size: 0.40) shipping from Port Chappero by 533 hours to Port Melody by 1433 hours
+    'silent sponsorship' (size: 8.40) shipping from Port Isoclous by 22 hours to Port Melody by 443 hours
+    'sore sulfur' (size: 0.10) shipping from Port Isoclous by 408 hours to Port Chappero by 856 hours
+    'third good-bye' (size: 5.90) shipping from Port Chappero by 345 hours to Port Melody by 926 hours
+    'noisy semantics' (size: 0.90) shipping from Port Chappero by 702 hours to Port Isoclous by 778 hours
+    'spiteful directive' (size: 1.40) shipping from Port Isoclous by 337 hours to Port Melody by 1091 hours
+    'ripe streetcar' (size: 7.60) shipping from Port Chappero by 428 hours to Port Melody by 904 hours
+    'indelible premeditation' (size: 2.50) shipping from Port Isoclous by 846 hours to Port Chappero by 1326 hours
+    'that senator' (size: 8.10) shipping from Port Isoclous by 84 hours to Port Melody by 919 hours
+    'medium restriction' (size: 4.30) shipping from Port Isoclous by 479 hours to Port Chappero by 592 hours
+    reward: 142800.00
+Contract 11 has 14 items:
+    'alert meme' (size: 5.10) shipping from Port Melody by 926 hours to Port Isoclous by 1213 hours
+    'rapid catalogue' (size: 4.60) shipping from Port Melody by 185 hours to Port Isoclous by 739 hours
+    'frequent ale' (size: 6.10) shipping from Port Isoclous by 594 hours to Port Chappero by 1528 hours
+    'stimulating hawk' (size: 0.90) shipping from Port Isoclous by 592 hours to Port Chappero by 1297 hours
+    'frigid sycamore' (size: 3.50) shipping from Port Chappero by 891 hours to Port Isoclous by 1134 hours
+    'disgusting doc' (size: 7.70) shipping from Port Isoclous by 133 hours to Port Chappero by 841 hours
+    'frosty crepe' (size: 3.00) shipping from Port Isoclous by 79 hours to Port Melody by 348 hours
+    'snappy bakeware' (size: 5.40) shipping from Port Chappero by 227 hours to Port Melody by 611 hours
+    'minor banana' (size: 3.20) shipping from Port Isoclous by 54 hours to Port Chappero by 256 hours
+    'everlasting shin' (size: 9.90) shipping from Port Chappero by 574 hours to Port Isoclous by 1316 hours
+    'powerless former' (size: 0.30) shipping from Port Isoclous by 995 hours to Port Melody by 1042 hours
+    'acrobatic upstairs' (size: 4.20) shipping from Port Melody by 193 hours to Port Isoclous by 1048 hours
+    'skinny brain' (size: 7.50) shipping from Port Chappero by 778 hours to Port Isoclous by 1277 hours
+    'wooden support' (size: 0.80) shipping from Port Melody by 131 hours to Port Isoclous by 577 hours
+    reward: 133042.00
